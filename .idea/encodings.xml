@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lesson1/src/main/java/com/learnopengles/android/lesson1/LessonOneActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson1/src/main/java/com/learnopengles/android/lesson1/LessonOneRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson2/src/main/java/com/learnopengles/android/lesson2/LessonTwoActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson2/src/main/java/com/learnopengles/android/lesson2/LessonTwoRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson3/src/main/java/com/learnopengles/android/lesson3/LessonThreeActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson3/src/main/java/com/learnopengles/android/lesson3/LessonThreeRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson3/src/main/java/com/learnopengles/android/lesson3/LessonTwoRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/LessonFourActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/LessonFourRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/RawResourceReader.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/ShaderHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/ShapeBuilder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson4/src/main/java/com/learnopengles/android/lesson4/TextureHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/LessonFiveActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/LessonFiveGLSurfaceView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/LessonFiveRenderer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/RawResourceReader.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/ShaderHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/ShapeBuilder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/lesson5/src/main/java/com/learnopengles/android/lesson5/TextureHelper.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
